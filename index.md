@@ -1,4 +1,5 @@
 ---
+permalink: /
 ---
 
 # Tianao Chen (Telly Chen)
