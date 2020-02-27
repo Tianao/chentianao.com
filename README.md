@@ -20,7 +20,8 @@ IT 从业者，网络工程师
 
 我的理想是：利用先进技术，降低信息交流成本、减少信息不对称，实现信息和通信技术的普惠价值。
 
-Copyright © Tianao Chen
+<br />
+<small>Copyright © Tianao Chen</small>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-151164894-2"></script>
