@@ -5,7 +5,9 @@
 
 ## CHEN, Tianao
 
-Network engineer lives in Shanghai, China
+Network engineer
+
+Lives in Shanghai, China
 
 Holds Tianao.net (AS141172)
 
