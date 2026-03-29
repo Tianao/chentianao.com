@@ -5,7 +5,7 @@
 
 ## CHEN, Tianao
 
-Network engineer
+IP network engineer
 
 Lives in Shanghai, China
 
@@ -13,7 +13,7 @@ Holds Tianao.net (AS141172)
 
 ## 陈天傲
 
-网络工程师（IP 网络，数据通信）
+IP 网络（数据通信）工程师
 
 现居上海
 
